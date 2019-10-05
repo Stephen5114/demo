@@ -64,7 +64,7 @@ int main()
 					break;
 			}
 
-			for (j = 1; i <= dot; j++)
+			for (j = 1; j <= dot; j++)
 			{
 				if (a[j] != 0)
 					break;
